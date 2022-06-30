@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.head {
+  margin-top: 20px;
+}
+
+.kotak {
+  background-color: wheat;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  margin: 0 auto;
+  height: auto;
+  border-radius: 10px;
+}
+
+.BTN {
+  width: 250px;
+  font-size: 18px;
+  color: #50a3a2;
+  font-size: 18px;
+  padding: 10px 15px;
+}
+
+.box {
+  display: flex;
+}
+
+.IE {
+  background: skyblue;
+  color: black;
+}
+
+.line {
+  background: black;
+}
+
+.garis {
+  margin: 10px;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
